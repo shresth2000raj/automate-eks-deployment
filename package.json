@@ -6,6 +6,6 @@
     "scripts": {
       "start": "node app.js"
     },
-    "author": "Ashish Prajapat",
+    "author": "Raj",
     "license": "ISC"
   }
